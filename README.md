@@ -18,11 +18,12 @@
 
 ##### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ##### Design softwares:
  <div style="display: inline_block">
   <img align="center" alt="Raisa-figma" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Raisa-xd" height="30" width="100" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+  <img align="center" alt="Raisa-xd" height="30" width="90" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <div/>
   
    ##       
