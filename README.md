@@ -3,7 +3,7 @@
 - <strong>Age:</strong> 29 
 - <strong>Pronouns:</strong> She/Her
 - <strong>Lives in:</strong> Recife, PE 🌴 
-- <strong>Education:</strong> BS in Computer Science and UX / UI Design Specialization
+- <strong>Education:</strong> BS in Computer Science and UX/UI Design Specialization
 
 ##
 
