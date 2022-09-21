@@ -1,6 +1,6 @@
 ## Hello! I'm Raísa, a Front-end Software Engineer and UX/UI Designer!
 
-- <strong>Age:</strong> 29 
+- <strong>Age:</strong> 30 
 - <strong>Pronouns:</strong> She/Her
 - <strong>Lives in:</strong> Brazil - Recife, PE 🌴
 - <strong>Education:</strong> BS in Computer Science and UX/UI Design Specialization
@@ -10,10 +10,16 @@
 
 ##### Languages:
 <div style="display: inline_block">
-  <img align="center" alt="Raisa-Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Raisa-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Raisa-Java" height="30" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Raisa-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Raisa-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+##### Frameworks & Libraries:
+<div style="display: inline_block">
+  <img align="center" alt="Raisa-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Raisa-Bootstrap" height="30" width="85" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
 ##### Databases:
