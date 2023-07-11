@@ -19,6 +19,7 @@
 ##### Frameworks & Libraries:
 <div style="display: inline_block">
   <img align="center" alt="Raisa-react" height="30" width="85" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Raisa-tailwind" height="30" width="135" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Raisa-Bootstrap" height="30" width="120" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Raisa-jquery" height="30" width="95" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
