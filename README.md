@@ -1,6 +1,5 @@
-## Hello! I'm Raísa, a Front-end Software Engineer and UX/UI Designer!
+## Hello! I'm Raísa, a Creative Web Designer!
 
-- <strong>Age:</strong> 30 
 - <strong>Pronouns:</strong> She/Her
 - <strong>Lives in:</strong> Brazil - Recife, PE 🌴
 - <strong>Education:</strong> BS in Computer Science and UX/UI Design Specialization
